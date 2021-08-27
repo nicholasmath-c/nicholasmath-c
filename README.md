@@ -44,7 +44,7 @@ I'm studying on a career and technical education High School. I love coding and 
 
 
 <details>
-<summary> <img src="https://emojis.slackmojis.com/emojis/images/1492722347/2064/blow_up.gif?1492722347"> Working on </summary>
+<summary>🚀 Working on </summary>
 <br>
 <p align="center">
 <a href="https://github.com/Mus4ng/heroi_solidario_laravel">
