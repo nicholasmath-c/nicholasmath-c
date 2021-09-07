@@ -31,7 +31,7 @@ I'm studying on a career and technical education High School. I love coding and 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"><br>
-</summary>
+</summary><br><br>
 
 
 
@@ -43,7 +43,7 @@ I'm studying on a career and technical education High School. I love coding and 
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mus4ng)
+![Profile Views](https://komarev.com/ghpvc/?username=Mus4ng)<br><br>
 
 
 
