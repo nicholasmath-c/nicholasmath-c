@@ -32,6 +32,7 @@ I'm studying on a career and technical education High School. I love coding and 
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"><br>
 
 
+
 ### Quick Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mus4ng&show_icons=true&theme=radical" />
@@ -39,7 +40,9 @@ I'm studying on a career and technical education High School. I love coding and 
 </p>
 
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Mus4ng)
+
 
 
 🚀 Working on
