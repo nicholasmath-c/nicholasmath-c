@@ -36,7 +36,7 @@ I'm studying on a career and technical education High School. I love coding and 
 
 ### Quick Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mus4ng&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mus4ng&show_icons=true&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mus4ng&theme=react&line_height=27&layout=compact" />
 </p>
 
