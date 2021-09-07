@@ -17,7 +17,7 @@
 I'm studying on a career and technical education High School. I love coding and design, and study by myself these themes since I was a child. 💻<br/><br/>
 
 
-⚙️ Some Tool and Tech I use
+## ⚙️ Some Tool and Tech I use
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -45,7 +45,7 @@ I'm studying on a career and technical education High School. I love coding and 
 
 
 
-🚀 Working on
+## 🚀 Working on
 <br>
 <p align="center">
 <a href="https://github.com/Mus4ng/heroi_solidario_laravel">
