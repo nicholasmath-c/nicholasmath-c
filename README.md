@@ -17,8 +17,10 @@
 I'm studying on a career and technical education High School. I love coding and design, and study by myself these themes since I was a child. 💻<br/><br/>
 
 ## 📚 Learning & Improving
+<summary>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</summary><br>
 
 ## ⚙️ Some Tool and Tech I use
 <summary>
