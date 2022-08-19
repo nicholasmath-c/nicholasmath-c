@@ -16,12 +16,15 @@
 ### About me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm studying on a career and technical education High School. I love coding and design, and study by myself these themes since I was a child. 💻<br/><br/>
 
-## 📚 Learning & Improving
+## 📚 Learning/Improving
 <summary>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </summary><br>
 
 ## ⚙️ Some Tool and Tech I use
