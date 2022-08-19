@@ -56,6 +56,6 @@ I'm studying on a career and technical education High School. I love coding and 
 ## 🚀 Working on
 <br>
 <p align="center">
-<a href="https://github.com/Mus4ng/https://github.com/Mus4ng/Noticias-ASP.NET-N-Tier">
+<a href="https://github.com/Mus4ng/Noticias-ASP.NET-N-Tier">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mus4ng&repo=Noticias-ASP.NET-N-Tier&show_owner=true&theme=radical" />
 
