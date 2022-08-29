@@ -10,12 +10,6 @@
 <a href="https://api.whatsapp.com/send?phone=5511956523233"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://linktr.ee/mus4ng.design"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 
-
-
-
-### About me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm studying on a career and technical education High School. I love coding and design, and study by myself these themes since I was a child. 💻<br/><br/>
-
 ## 📚 Learning/Improving
 <summary>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
