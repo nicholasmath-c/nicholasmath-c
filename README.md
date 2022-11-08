@@ -57,5 +57,5 @@
 <br>
 <p align="center">
 <a href="https://github.com/Mus4ng/Noticias-ASP.NET-N-Tier">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mus4ng&repo=Noticias-ASP.NET-N-Tier&show_owner=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mus4ng&repo=SistemaFeiraCultural-Laravel&show_owner=true&theme=radical" />
 
