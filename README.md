@@ -4,11 +4,9 @@
 #### Find me at
 <a href="https://www.instagram.com/nicholasmath.c/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/nicholasmacosta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.behance.net/mus4ngdesign"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
-<a href="https://twitter.com/musangkkk"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.twitch.tv/mus4ng"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://www.behance.net/nicholasmath"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
 <a href="https://api.whatsapp.com/send?phone=5511956523233"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://linktr.ee/mus4ng.design"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a><br><br>
+<a href="https://linktr.ee/nicholasmatheus"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a><br><br>
 
 ## 📚 Learning/Improving
 <summary>
@@ -43,13 +41,13 @@
 
 ### Quick Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mus4ng&show_icons=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mus4ng&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicholasmath-c&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasmath-c&theme=radical" />
 </p>
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mus4ng)<br><br>
+![Profile Views](https://komarev.com/ghpvc/?username=nicholasmath-c)<br><br>
 
 
 
@@ -57,5 +55,5 @@
 <br>
 <p align="center">
 <a href="https://github.com/Mus4ng/SistemaFeiraCultural-Laravel">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mus4ng&repo=SistemaFeiraCultural-Laravel&show_owner=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nicholasmath-c&repo=SistemaFeiraCultural-Laravel&show_owner=true&theme=radical" />
 
